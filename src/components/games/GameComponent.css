@@ -1,0 +1,10 @@
+.game-image {
+    width: auto;
+    height: auto;
+    margin: auto;
+    overflow: hidden;
+}
+
+.game-image > img {
+    width: 100%;
+}
