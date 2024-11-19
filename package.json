@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@react-firebase/auth": "^0.2.9",
-    "firebase": "^6.3.5",
+    "firebase": "^10.9.0",
     "history": "^4.9.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
